@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 home
-=======
-fdsasdfasdsdfsadf
->>>>>>> 633bc056338f38c3eb9a64ebf4edcadd5e825015
